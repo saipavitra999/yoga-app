@@ -1,0 +1,39 @@
+.title-holder {
+  width: 1441px;
+  height: 352px;
+}
+
+.main {
+  color: #a14f7b;
+  font-family: Arial;
+  font-size: 60px;
+  line-height: 78px;
+  padding: 70px 0;
+
+}
+
+.sub {
+  color: #47525e;
+  font-family: Arial;
+  font-size: 32px;
+  /* line-height: 41px;
+  width: 242px; */
+  text-align: center;
+}
+
+.sub2 {
+  color: #47525e;
+  font-family: Lato;
+  font-size: 25px;
+  /* line-height: 32px;
+  width: 343px; */
+  text-align: center;
+}
+
+.bg {
+  background-color: rgba(228, 220, 214, 0.93);
+  width: 1440px;
+  height: 2280px;
+  text-align: center;
+  
+}
